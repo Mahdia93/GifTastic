@@ -1,0 +1,24 @@
+
+body {
+	background-image: url("../images/gOTbackground.jpg");
+}
+
+
+
+.btn-info {
+    color: #fff;
+    background-color: #860000;
+    border-color: #040000;}
+
+.btn-info:active:focus {
+  color: #ffffff; 
+  background-color: #161617; 
+  border-color: #494F57;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #bfad2b;
+    border-color: #000000;
+}
+
